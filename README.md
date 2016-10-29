@@ -65,3 +65,9 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 `> jupyter notebook`
 
 A browser window will appear showing the contents of the current directory.  Navigate to the P0\_prototype directory, and click on the file called "P0\_prototype.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
+
+This project was completed for the [Udacity Self-Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+
+If you're in that nanodegree or a related course right now, obey all honor code requirements before viewing this code.  
+I recommend that this code should only be viewed _after_ you've completed your own implementation.  
+If you're super stuck, take a break, take a walk, and it will come to you; good luck.
